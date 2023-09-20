@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "My 2nd Post",
+      "datetime": "September 20,2023 11:36:25 PM",
+      "body": "Web Developer using  react application\n"
+    },
+    {
+      "id": 4,
+      "title": "hello",
+      "datetime": "September 20,2023 2:48:06 PM",
+      "body": "divya\n"
+    },
+    {
+      "id": 8,
+      "title": "hi",
+      "datetime": "September 20,2023 11:29:54 PM",
+      "body": "this is karthikeyan"
+    },
+    {
+      "id": 9,
+      "title": "welcome",
+      "datetime": "September 20,2023 11:40:58 PM",
+      "body": " I have Completed React-js"
+    }
+  ]
+}
